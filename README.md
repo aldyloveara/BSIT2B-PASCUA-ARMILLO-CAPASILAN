@@ -17,7 +17,7 @@
     h1 { margin-top: 20px; }
 
     #lives, #round, #countdown {
-      font-size: 22px;
+      font-size: 21px;
       margin: 10px;
       font-weight: bold;
     }
